@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+*.local
+build/
+elm-stuff
+node_modules
+.DS_Store
+.history
+.idea
+.vscode
+!.vscode/extensions.json
